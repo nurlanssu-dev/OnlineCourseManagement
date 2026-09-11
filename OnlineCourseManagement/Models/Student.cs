@@ -1,0 +1,16 @@
+﻿namespace OnlineCourseManagement.Models;
+
+public class Student
+{
+    public int Id { get; set; }
+
+    public string FullName { get; set; }
+
+    public string Email { get; set; }
+
+    public int Age { get; set; }
+
+    public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+    public List<Enrollment> Enrollments { get; set; } = new();
+}
