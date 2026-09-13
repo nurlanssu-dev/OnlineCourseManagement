@@ -123,4 +123,15 @@ public class CourseService
 
         return "Course deleted successfully!";
     }
+
+    // COURSE PAGINATION
+
+    public List<Course> GetCoursesByPage(int pageNumber, int pageSize)
+    {
+        return _context.Courses
+            .OrderBy(c => c.Id)
+            .Skip((pageNumber - 1) * pageSize)
+            .Take(pageSize)
+            .ToList();
+    }
 }

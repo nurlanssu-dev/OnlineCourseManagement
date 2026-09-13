@@ -160,6 +160,7 @@ public class EnrollmentService
 
     public List<Course> GetCoursesByPage(int pageNumber, int pageSize)
     {
+
         return _context.Courses
             .OrderBy(c => c.Id)
             .Skip((pageNumber - 1) * pageSize)
@@ -167,6 +168,6 @@ public class EnrollmentService
             .ToList();
     }
 
-
+    
 
 }

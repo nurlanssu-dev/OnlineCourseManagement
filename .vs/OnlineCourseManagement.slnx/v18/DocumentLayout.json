@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|c:\\users\\nurlan\\source\\repos\\onlinecoursemanagement\\onlinecoursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F379BC2-E461-9D8F-F7B0-002558E50F36}|OnlineCourseManagement\\OnlineCourseManagement.csproj|solutionrelative:onlinecoursemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnrollmentService.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Services\\EnrollmentService.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Services\\EnrollmentService.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Services\\EnrollmentService.cs",
               "RelativeToolTip": "OnlineCourseManagement\\Services\\EnrollmentService.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAcwKkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwJ4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T12:14:04.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CourseService.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Services\\CourseService.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Services\\CourseService.cs",
               "RelativeToolTip": "OnlineCourseManagement\\Services\\CourseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T11:33:42.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Services\\StudentService.cs",
@@ -84,12 +84,11 @@
               "RelativeToolTip": "OnlineCourseManagement\\Services\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T11:18:33.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T11:18:33.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20260911104925_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Migrations\\20260911104925_InitialCreate.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Migrations\\20260911104925_InitialCreate.cs",
@@ -97,12 +96,11 @@
               "RelativeToolTip": "OnlineCourseManagement\\Migrations\\20260911104925_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:49:25.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:49:25.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Data\\AppDbContext.cs",
@@ -110,12 +108,11 @@
               "RelativeToolTip": "OnlineCourseManagement\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:33:46.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:33:46.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Models\\Enrollment.cs",
@@ -123,12 +120,11 @@
               "RelativeToolTip": "OnlineCourseManagement\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:21:49.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:21:49.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Models\\Course.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Models\\Course.cs",
@@ -136,12 +132,11 @@
               "RelativeToolTip": "OnlineCourseManagement\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:18:55.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:18:55.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Models\\Student.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Models\\Student.cs",
@@ -149,20 +144,20 @@
               "RelativeToolTip": "OnlineCourseManagement\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:13:13.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T10:13:13.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Program.cs",
               "RelativeDocumentMoniker": "OnlineCourseManagement\\Program.cs",
               "ToolTip": "C:\\Users\\Nurlan\\source\\repos\\OnlineCourseManagement\\OnlineCourseManagement\\Program.cs",
               "RelativeToolTip": "OnlineCourseManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAkwMcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T10:05:59.78Z"
+              "WhenOpened": "2026-09-11T10:05:59.78Z",
+              "EditorCaption": ""
             }
           ]
         }

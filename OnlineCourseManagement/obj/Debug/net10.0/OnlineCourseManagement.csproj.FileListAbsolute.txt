@@ -160,3 +160,4 @@ C:\Users\Nurlan\source\repos\OnlineCourseManagement\OnlineCourseManagement\obj\D
 C:\Users\Nurlan\source\repos\OnlineCourseManagement\OnlineCourseManagement\obj\Debug\net10.0\OnlineCourseManagement.pdb
 C:\Users\Nurlan\source\repos\OnlineCourseManagement\OnlineCourseManagement\obj\Debug\net10.0\OnlineCourseManagement.genruntimeconfig.cache
 C:\Users\Nurlan\source\repos\OnlineCourseManagement\OnlineCourseManagement\obj\Debug\net10.0\ref\OnlineCourseManagement.dll
+C:\Users\Nurlan\source\repos\OnlineCourseManagement\OnlineCourseManagement\obj\Debug\net10.0\OnlineCourseManagement.sourcelink.json
